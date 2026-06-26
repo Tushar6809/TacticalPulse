@@ -1,0 +1,123 @@
+{
+  "events": [
+    {
+      "minute": "0",
+      "type": "Kickoff",
+      "team": "Argentina",
+      "player": "The Captain",
+      "description": "The 2022 World Cup Final. Argentina versus France. Eighty eight thousand fans inside the stadium. The Captain leads Argentina out — this could be the night he finally lifts the trophy. France, the defending champions, are ready to fight. The referee blows his whistle and we are underway."
+    },
+    {
+      "minute": "3",
+      "type": "Tactical",
+      "team": "Argentina",
+      "player": "The Winger",
+      "description": "Argentina pressing high and fast. The left winger is causing real problems — direct, purposeful, demanding the ball early. The crowd is absolutely electric inside this stadium."
+    },
+    {
+      "minute": "9",
+      "type": "Tactical",
+      "team": "France",
+      "player": "The Striker",
+      "description": "France look strangely quiet. Their star striker is isolated up front, barely touching the ball. Argentina are dominating possession, playing with enormous confidence. Something has to change for France."
+    },
+    {
+      "minute": "21",
+      "type": "Foul",
+      "team": "France",
+      "player": "The Defender",
+      "description": "A foul in the box! The referee points to the spot immediately — that is a penalty! The crowd erupts. The Captain will step up. The greatest player in the world at the biggest moment of his life. The stadium holds its breath."
+    },
+    {
+      "minute": "23",
+      "type": "Goal",
+      "team": "Argentina",
+      "player": "The Captain",
+      "description": "GOAL! The Captain scores! Cool, calm, perfect — right down the middle as the goalkeeper dived away! Argentina lead one nil! He wheels away with that quiet iconic celebration. The blue and white half of this stadium has completely lost its mind!"
+    },
+    {
+      "minute": "36",
+      "type": "Goal",
+      "team": "Argentina",
+      "player": "The Left Winger",
+      "description": "TWO NIL! The left winger slots it home after a sweeping team move! Argentina have been magnificent — absolutely magnificent tonight! This is one of the great World Cup Final performances!"
+    },
+    {
+      "minute": "45",
+      "type": "Half Time",
+      "team": "Both",
+      "player": "N/A",
+      "description": "Half time. Argentina two, France nil. The scoreline is fully deserved. Argentina have dominated every single department. France need a miracle in the second half. Their manager will have some very difficult words in that dressing room right now."
+    },
+    {
+      "minute": "52",
+      "type": "Tactical",
+      "team": "France",
+      "player": "The Striker",
+      "description": "France starting the second half with far more urgency. Their striker is dropping deeper, demanding the ball, getting involved. You sense this game might not be over. Argentina — can they hold on to this lead?"
+    },
+    {
+      "minute": "68",
+      "type": "Tactical",
+      "team": "Argentina",
+      "player": "The Captain",
+      "description": "The Captain is still directing everything. Every time Argentina win the ball they look to him first. He is pressing, carrying, creating — everywhere on this pitch. You are watching true greatness in real time. Twenty minutes stand between him and the World Cup."
+    },
+    {
+      "minute": "80",
+      "type": "Goal",
+      "team": "France",
+      "player": "The Striker",
+      "description": "GOAL! France pull one back from the penalty spot! Two one! The striker said he would fight and he has! Ten minutes left in this World Cup Final and suddenly — suddenly — it is alive again!"
+    },
+    {
+      "minute": "81",
+      "type": "Goal",
+      "team": "France",
+      "player": "The Striker",
+      "description": "TWO TWO! He scores again! Eighty one minutes! From two goals down with ten minutes to go — France have equalised! The striker with two goals in two minutes! This is absolutely extraordinary! One of the greatest comebacks in World Cup Final history!"
+    },
+    {
+      "minute": "90",
+      "type": "Half Time",
+      "team": "Both",
+      "player": "N/A",
+      "description": "Full time — two two. We are going to extra time! What a match. What a final. What a game of football. The Captain must play thirty more minutes to win the World Cup. Both teams look exhausted. Both teams look determined. This greatest of finals is not done yet."
+    },
+    {
+      "minute": "108",
+      "type": "Goal",
+      "team": "Argentina",
+      "player": "The Captain",
+      "description": "THE CAPTAIN SCORES IN EXTRA TIME! He forces it over the line from close range! Three two Argentina! He is crying — his teammates pile on top of him — one hand on the trophy now! The noise inside this stadium is unbelievable!"
+    },
+    {
+      "minute": "115",
+      "type": "Goal",
+      "team": "France",
+      "player": "The Striker",
+      "description": "THREE THREE! The striker completes his hat trick from the penalty spot! Three goals in a World Cup Final! France are level again! We are going to penalties. This match simply refuses to end."
+    },
+    {
+      "minute": "121",
+      "type": "Goal",
+      "team": "Argentina",
+      "player": "The Captain",
+      "description": "The Captain steps up first in the shootout — and scores! Coolness personified. He sends the keeper the wrong way and celebrates like a man who has been waiting his entire life for this moment. Argentina one — France zero in the shootout."
+    },
+    {
+      "minute": "123",
+      "type": "Penalty Miss",
+      "team": "France",
+      "player": "French Midfielder",
+      "description": "THE KEEPER SAVES IT! The Argentine goalkeeper dives to his right and gets a strong hand to it! The French midfielder misses! Argentina are one save away from the World Cup! The blue and white army cannot contain themselves!"
+    },
+    {
+      "minute": "125",
+      "type": "Penalty Miss",
+      "team": "France",
+      "player": "French Defender",
+      "description": "HE HITS THE POST! Wide! It is over! IT IS OVER! ARGENTINA ARE WORLD CHAMPIONS! The Captain has won the World Cup! The greatest player who ever lived has the one trophy that was missing. This is his night. This is his moment. Football found its perfect ending."
+    }
+  ]
+}

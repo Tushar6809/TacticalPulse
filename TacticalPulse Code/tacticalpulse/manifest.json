@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "TacticalPulse",
+  "version": "1.0",
+  "description": "The AI Tactical Narrator for football matches.",
+  "action": {
+    "default_title": "Open TacticalPulse"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "http://localhost:*/*",
+    "https://*/*"
+  ],
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["data/replay.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
