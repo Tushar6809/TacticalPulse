@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modeText      = document.getElementById('mode-text');
   const feedContainer = document.getElementById('commentary-feed');
 
-  const WORKER_URL = 'https://tacticalpulse.seetay1012.workers.dev/';
+  const WORKER_URL = '<YOUR_CLOUDFLARE_WORKER_URL>'; // e.g., 'https://tacticalpulse.yourusername.workers.dev/'
   const dataService = new DataService();
   let isStopped = false;
 

@@ -82,8 +82,8 @@ To keep your API keys secure, configure them via the Cloudflare Dashboard rather
 1. Open Chrome and navigate to `chrome://extensions/`.
 2. Enable **Developer mode** (top right toggle).
 3. Click **Load unpacked**.
-4. Select the `/extension` folder from this repository.
-5. Ensure the base URL in your extension's configuration points to your deployed Cloudflare Worker URL.
+4. Select the `TacticalPulse Code/tacticalpulse` folder from this repository.
+5. In `TacticalPulse Code/tacticalpulse/script.js`, replace `<YOUR_CLOUDFLARE_WORKER_URL>` on line 13 with your deployed Cloudflare Worker URL.
 
 ---
 
